@@ -20,3 +20,5 @@ Use this commands:
 /neon_veh_id (The neon mod will only appear on the current vehicle)
 
 /neon_veh_off (the neon mod will appear on all of the player's vehicles)
+
+<img width="1920" height="1080" alt="Screenshot 2026-05-01 21-36-01" src="https://github.com/user-attachments/assets/e8f06f65-8d1f-4e89-a8d9-434c62b770c9" />
